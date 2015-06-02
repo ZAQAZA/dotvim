@@ -128,3 +128,5 @@ Bundle 'Shougo/vimproc'
 Bundle 'Shougo/unite.vim'
 Bundle 'Shougo/unite-outline'
 Bundle 'ujihisa/unite-colorscheme'
+
+Bundle 'vim-scripts/LargeFile'
