@@ -130,3 +130,5 @@ Bundle 'Shougo/unite-outline'
 Bundle 'ujihisa/unite-colorscheme'
 
 Bundle 'vim-scripts/LargeFile'
+
+Bundle 'ElmCast/elm-vim'
